@@ -5,7 +5,7 @@
 [View PDF](https://1drv.ms/b/c/8673476679b39335/IQRVkc8mdWHCSqu-dnTL1gY3ARda8sfaSAmivf0oP2mtlAY)
 
 ## Project Components
-- Power BI: Employed to create interactive dashboards and reports, including ride performance, revenue analysis, and driver performance.
+- Power BI: Employed to create interactive dashboards and reports, including property and performance.
 - DAX: Used for creating KPIs and calculating performance metrics.
 - Data Transformation: Raw data is cleaned, transformed, and structured for analysis and reporting.
 
